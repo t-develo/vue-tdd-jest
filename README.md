@@ -1,4 +1,4 @@
-# vue-tdd-mocha
+# vue-tdd-jest
 
 vue.jsを単体テスト込みで始めるためのテンプレートリポジトリ.
 
